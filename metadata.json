@@ -1,0 +1,7 @@
+{
+  "name": "TaskHero - Your Smart Day Coach",
+  "description": "A gamified productivity coach that transforms your daily to-do list into a series of heroic missions with AI-powered motivation and progress tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
